@@ -3,7 +3,7 @@
 
 * Russia
 * Brasil
-* Eua
+* Alemanha
 * França
 * China
 * Holanda
