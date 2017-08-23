@@ -3,5 +3,5 @@
 
 * Russia
 * Brasil
-* Eua
+* Alemanha
 * França
