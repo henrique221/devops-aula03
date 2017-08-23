@@ -5,3 +5,5 @@
 * Brasil
 * Eua
 * França
+* China
+* Holanda
